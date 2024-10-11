@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: "I HATE UI FRAMEWORK"
-date: 2024-9-26
+title: "UI FRAMEWORK MY WORST NIGHTMARE"
+date: 2024-10-10
 published: True
 labels:
   - Bootstrap
