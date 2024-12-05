@@ -23,3 +23,4 @@ Another example is a factory. A factory is a pattern used to generalize more spe
 So how does a factory solve this problem? A factory is like a superclass for more specific classes. Lets take at our zoo example real quick. Instead of creating a class for each of the animals, it is more practical to make a superclass called "Animal", with general functions that can be applied to all animals such as "sleep". Then make a subclass of a the "Animal" class for each of the specific animals with more specific functions that are specific to that animal.
 
 ### OKAY? YOU STILL HAVEN"T ANSWERED THE QUESTION
+
