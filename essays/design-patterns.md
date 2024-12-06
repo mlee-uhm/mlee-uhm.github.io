@@ -12,7 +12,7 @@ labels:
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
 ### WHAT'S THAT?
-When I was first asked "What is a design pattern?" I was unable to answer. I have been coding for over three years at this point, but I never in my life have I heard about a 'design pattern". However, after asking ChatGPT what a design pattern was and doing some additional research on my own, I realized that the so called "design pattern" was just a fancy term to somethings I've done in my code before. 
+When I was first asked "What is a design pattern?" I was unable to answer. I have been coding for over three years at this point, but I never in my life have I heard about a 'design pattern". However, after asking ChatGPT what a design pattern was and doing some additional research on my own, I realized that the so called "design pattern" was just a fancy term to somethings I've commonly done in my code before. 
 
 For example, one "design pattern" is an iterator. An iterator is a tool used to iterate (hence the name iterator) across a collection of items. Your items might be stored in an array, but it could also be stored in a different data structure like a tree. As software engineers, we know that there are different ways to iterate through an array and trees. We can use also use different ways to travel through a tree such as depth first search and breadth first search.
 
@@ -23,4 +23,4 @@ Another example is a factory. A factory is a pattern used to generalize more spe
 So how does a factory solve this problem? A factory is like a superclass for more specific classes. Lets take at our zoo example real quick. Instead of creating a class for each of the animals, it is more practical to make a superclass called "Animal", with general functions that can be applied to all animals such as "sleep". Then make a subclass of a the "Animal" class for each of the specific animals with more specific functions that are specific to that animal.
 
 ### OKAY? YOU STILL HAVEN"T ANSWERED THE QUESTION
-
+Okay I haven't exactly answered the question of "What is a design pattern?", but I think that you can form a picture in your head of what a design pattern is. The fancy explaination is that a design pattern is a incomplete template that cannot be directly transformed into code, that software engineers can use to solve commonly seen problems when coding. The more basic explaination is that it is a general solution to commonly seen problems when coding. I think at some point in time, we have all used some form of a design pattern but just haven't realized it. 
