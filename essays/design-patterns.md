@@ -22,5 +22,5 @@ Another example is a factory. A factory is a pattern used to generalize more spe
 
 So how does a factory solve this problem? A factory is like a superclass for more specific classes. Let's take a quick look at our zoo example. Instead of creating a class for each of the animals, it is more practical to make a superclass called "Animal," with general functions that can be applied to all animals, such as "sleep." Then make a subclass of the "Animal" class for each of the specific animals with more specific functions that are specific to that animal.
 
-OKAY? YOU STILL HAVEN'T ANSWERED THE QUESTION.
+### OKAY? YOU STILL HAVEN'T ANSWERED THE QUESTION.
 Okay, I haven't exactly answered the question of "What is a design pattern?" but I think that you can form a picture in your head of what a design pattern is. The fancy explanation is that a design pattern is an incomplete template that cannot be directly transformed into code that software engineers can use to solve commonly seen problems when coding. The more basic explanation is that it is a general solution to commonly seen problems when coding. I think at some point in time, we have all used some form of a design pattern but just haven't realized it.
