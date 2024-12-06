@@ -9,7 +9,7 @@ labels:
   - Application
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img height="100px" class="rounded float-start pe-4" src="../img/design-pattern/design-pattern-word-cloud.png">
 
 ### WHAT'S THAT?
 When I was first asked "What is a design pattern?" I was unable to answer. I have been coding for over three years at this point, but I never in my life have I heard about a 'design pattern". However, after asking ChatGPT what a design pattern was and doing some additional research on my own, I realized that the so called "design pattern" was just a fancy term to somethings I've commonly done in my code before. 
