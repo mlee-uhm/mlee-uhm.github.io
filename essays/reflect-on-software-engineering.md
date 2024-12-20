@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Artificial 'Intelligence' (See what I did there)"
+title: "The Delicate Art of Software Engineering"
 date: 2024-12-19
 published: true
 labels:
@@ -10,10 +10,9 @@ labels:
   - ESLint
   - Coding Standards
 ---
-<img height="100px" class="rounded float-start pe-4" src="../img/reflect-on-ai/ai.jpg">
+<img height="200px" class="rounded float-start pe-4" src="../img/software-engineering/software-engineering.jpg">
 
 ## Reflecting on Software Engineering Concepts Beyond Web Application Development
-
 In this class, I learned about more than just web application development. I also gained a deeper understanding of fundamental software engineering concepts that can be applied across various fields, not just in web development. Specifically, I found that concepts like Agile Project Management and Configuration Management have broader applications that can be useful in diverse types of software projects. These principles are vital for creating good and efficient software, and they extend far beyond the just web applications. In this essay, I will discuss how the ideas of Agile Project Management, particularly Issue Driven Project Management, and Configuration Management can be applied to various software engineering contexts.
 
 ## Agile Project Management
