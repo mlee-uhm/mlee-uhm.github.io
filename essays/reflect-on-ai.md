@@ -9,6 +9,7 @@ labels:
   - AI use in Classrooms
 ---
 <img height="100px" class="rounded float-start pe-4" src="../img/reflect-on-ai/ai.jpg"> <br>
+
 ## AI in the Classroom
 The use of artificial intelligence in the classroom has increased throughout the years. It can be used as a tool that can write simple code, or explain complex code. In ICS 314, these AI tools were a large part of my success in the course. For example, I used ChatGPT to explain Javascript and Typescript concepts that I did not have a solid understanding of. I also used it to generate simple code to help speed up the rate at which I write code. I’ve also used other AI models such as Claude and Github Copilot with varying degrees of success in ICS 314. Generally though, I like to avoid using AI as much as possible to ensure that I understand what is actually going on in the class. I also thought that it wasn’t the greatest idea to rely on it to do all the work, since AI models still make mistakes and aren’t perfect.
 ## Personal Experience
