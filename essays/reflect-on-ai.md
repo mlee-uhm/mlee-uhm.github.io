@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Artificial 'Intelligence'"
+title: "Artificial 'Intelligence' (See what I did there)"
 date: 2024-12-17
 published: true
 labels:
