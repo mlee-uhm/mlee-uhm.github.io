@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Python" ]
     },
     {
       "name": "Secondary Languages",
-      "keywords": [ "Chinese"]
+      "keywords": [ "Chinese", "Korean (in the near future)"]
     }
   ],
   "education": [
